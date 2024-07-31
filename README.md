@@ -1,5 +1,7 @@
 # [FlutterDevEssentials](https://dario-maselli.github.io/FlutterDevEssentials/)
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9275/badge)](https://www.bestpractices.dev/projects/9275)
+
 The open source repo for quick links to some really amazing websites to help you with your Flutter development.
 
 Clicking the above heading will take you to our Github Pages where you can navigate through and find the relevant examples and docs for the packages you would like to use.
